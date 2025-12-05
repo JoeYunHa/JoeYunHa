@@ -30,5 +30,3 @@ Tech Stacks
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"><img src="https://img.shields.io/badge/Websocket-1F2A38?style=for-the-badge&logo=socket.io&logoColor=white">
 
 
-[![JoeYunHa's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoeYunHa&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
